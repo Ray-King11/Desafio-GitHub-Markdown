@@ -2,37 +2,32 @@
 
 #### >> DESAFIO DE PROJETO <<
 
-Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
+Este repositório é uma introdução prática ao universo do Git e do GitHub, com foco na colaboração eficiente em projetos e no uso criativo do Markdown para criar documentações claras e atraentes.
 
 **Objetivos:**
 
-1. **Criar sua conta no Github:**
-   - Essencial para alcançarmos nossos objetivos.
+| O que você encontrará aqui | 😎 |
+| ---------------------- | ----------------------------------------------------------------------------------------- | 
+| **Fundamentos do Git**: | Comandos básicos e boas práticas para versionar seu código de maneira segura e eficiente.|
+| 1.Repositório | [Versionamento de Código - Git e GitHub](https://github.com/Ray-King11/dio-resumos-git-e-github.git) |
+| 2. Repositório | [Listas de comandos](https://github.com/Ray-King11/Listas-de-comandos-uteis-para-o-Git.git)          |
+| **Trabalho em equipe com GitHub** | Configuração de repositórios, pull requests, revisão de código e estratégias de branching.|
+| **Markdown descomplicado** |  Dicas e truques para criar documentações organizadas e visuais.|
+ 
 
-2. **Criar um Repositório:**
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
-   - Adicione o seu README.md ao criar o repositório.
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
-   - Lembre-se: o repositório deve ser público.
 
-3. **Colaboração:**
-   - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-   - Ambos devem fazer um clone do repositório em suas máquinas locais.
-   - Realizem alterações, Commits, abra issues e pull requests.
+## Este repositório é ideal para:
 
-4. **Formatação com Markdown:**
-   - Edite o arquivo "README.md" em seu repositório.
-   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+Iniciantes em Git e GitHub que desejam entender os fundamentos.
+Desenvolvedores que buscam melhorar suas habilidades de colaboração em equipe.
+Profissionais que desejam criar documentações profissionais e envolventes usando Markdown.
+Explore, colabore e descubra como o Git e o GitHub podem transformar a forma como você trabalha em projetos de desenvolvimento! 😉 🚀
 
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
-<div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
+<div align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJucXMybHU0Ynk4ZG5ycWYyZW1qcG9ubWo5czFsbDNrcjl6aHpubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8qvtPuCyKXI4qJK7d/giphy.webp"/></div>
 
+<div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoxZDYweHRjdWZ4OTBsNGJwMTdpODRobzc3dTJqczVvNG82bG1nYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.webp"/></div>
+ 
 
-Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
-
-Crie branches para o seu projeto e realizem merge das alterações. Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a) colaborativo 😉.
-
-Ahhh e quero ver o README do Perfil bem legal ein?! 😎
-
-Então... bons estudos!!
+<div align="center"><h2>Então... bons estudos!!</h2></div>
