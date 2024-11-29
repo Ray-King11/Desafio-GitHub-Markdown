@@ -31,3 +31,9 @@ Explore, colabore e descubra como o Git e o GitHub podem transformar a forma com
  
 
 <div align="center"><h2>Então... bons estudos!!</h2></div>
+
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
