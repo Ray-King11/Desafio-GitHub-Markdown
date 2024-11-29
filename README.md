@@ -25,10 +25,13 @@ Explore, colabore e descubra como o Git e o GitHub podem transformar a forma com
 
 <div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
 
-<div align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJucXMybHU0Ynk4ZG5ycWYyZW1qcG9ubWo5czFsbDNrcjl6aHpubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8qvtPuCyKXI4qJK7d/giphy.webp"/></div>
+<div align="center"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJucXMybHU0Ynk4ZG5ycWYyZW1qcG9ubWo5czFsbDNrcjl6aHpubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e8qvtPuCyKXI4qJK7d/giphy.webp" width="560px" height="515px"/></div>
 
-<div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoxZDYweHRjdWZ4OTBsNGJwMTdpODRobzc3dTJqczVvNG82bG1nYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.webp"/></div>
- 
+<div align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnoxZDYweHRjdWZ4OTBsNGJwMTdpODRobzc3dTJqczVvNG82bG1nYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.webp" width="560px" height="515px"/></div>
+
+
+<div align="center"><img src="https://i.gifer.com/Mr3W.gif" width="560px" height="515px"/></div>
+
 
 <div align="center"><h2>Então... bons estudos!!</h2></div>
 
